@@ -1,8 +1,29 @@
 <odam>
-    <ism>Sherzod</ism>
-    <sharif>Abdullajonov</sharif>
-    <education>>
-        <nomi>TATU</nomi>
-        <fakultet>Tellekommunkatsiya</fakultet>
-    </education>
+    <names>
+        <ism>Sherzod</ism>
+        <sharif>Abdullajonov</sharif>
+        <educations>
+            <education>
+                <nomi type="unversity">TATU</nomi>
+                <fakultet>Tellekommunkatsiya</fakultet>
+            </education>
+            <education>
+                <name type="school">300</name>
+            </education>
+        </educations>
+    </names>
+    <names>
+        <ism>Rustam</ism>
+        <sharif>Ismailov</sharif>
+        <educations>
+            <education>
+                <nomi type="unversity">TATU</nomi>
+                <fakultet>Matematika</fakultet>
+            </education>
+            <education>
+                <name type="school">300</name>
+            </education>
+        </educations>
+    </names>
+
 </odam>
