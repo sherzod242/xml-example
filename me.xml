@@ -1,6 +1,8 @@
 <odam>
     <ism>Sherzod</ism>
     <sharif>Abdullajonov</sharif>
-    <nomi>TATU</nomi>
-    <fakultet>Tellekommunkatsiya</fakultet>
+    <education>>
+        <nomi>TATU</nomi>
+        <fakultet>Tellekommunkatsiya</fakultet>
+    </education>
 </odam>
